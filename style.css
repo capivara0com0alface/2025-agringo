@@ -1,3 +1,9 @@
+:root{
+ --verde-claro: #94a473;
+--verde-escuro: #5d6648;
+--branco: #ffffff;
+}
+
 body{
-    background-color: #94a473;
+    background-color: var(--verde-claro);
 }
