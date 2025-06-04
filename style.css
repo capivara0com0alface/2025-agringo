@@ -13,5 +13,5 @@ header{
     width: 98%;
     background-color: var(--verde-escuro);
     padding: 1rem;
-    justify-content: center;
+    justify-content: space-between;
 }
