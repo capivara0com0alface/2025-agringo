@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
+
+
 :root{
  --verde-claro: #94a473;
 --verde-escuro: #5d6648;
@@ -15,3 +18,7 @@ header{
     padding: 1rem;
     justify-content: center;
 }
+
+.Título{
+    font-family: "Edu QLD Hand", cursive;
+} 
