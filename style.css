@@ -10,7 +10,7 @@ body{
 
 header{
     display: flex; 
-    width: 100%;
+    width: 98%;
     background-color: var(--verde-escuro);
     padding: 1rem;
     justify-content: center;
