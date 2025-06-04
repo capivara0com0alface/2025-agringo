@@ -10,8 +10,8 @@ body{
 
 header{
     display: flex; 
-    width: 94%;
+    width: 98%;
     background-color: var(--verde-escuro);
-    padding: 3rem;
+    padding: 1rem;
     justify-content: space-between;
 }
