@@ -31,3 +31,9 @@ header{
     position: relative;
     right: 133%;
 }
+
+.folha2s{
+    width: 25%;
+    position: relative;
+    right: -133%;
+}
